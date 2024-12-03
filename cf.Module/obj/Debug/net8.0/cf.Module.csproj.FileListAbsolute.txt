@@ -1,0 +1,12 @@
+C:\Users\Hii\source\repos\cf\cf.Module\bin\Debug\net8.0\cf.Module.deps.json
+C:\Users\Hii\source\repos\cf\cf.Module\bin\Debug\net8.0\cf.Module.dll
+C:\Users\Hii\source\repos\cf\cf.Module\bin\Debug\net8.0\cf.Module.pdb
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\cf.Module.csproj.AssemblyReference.cache
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\cf.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\cf.Module.AssemblyInfoInputs.cache
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\cf.Module.AssemblyInfo.cs
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\cf.Module.csproj.CoreCompileInputs.cache
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\cf.Module.dll
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\refint\cf.Module.dll
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\cf.Module.pdb
+C:\Users\Hii\source\repos\cf\cf.Module\obj\Debug\net8.0\ref\cf.Module.dll
